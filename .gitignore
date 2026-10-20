@@ -1,0 +1,42 @@
+
+# Сборки и результаты компиляции
+bin/
+obj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+out/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider / IntelliJ
+.idea/
+*.sln.iml
+
+# VS Code
+.vscode/
+
+# Временные файлы
+*.tmp
+*.temp
+*.log
+*.cache
+
+# Файлы операционной системы
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# NuGet
+*.nupkg
+.nuget/
+
+# Публикация
+publish/
+artifacts/
